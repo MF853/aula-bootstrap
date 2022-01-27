@@ -1,0 +1,65 @@
+.navbar{
+    background-color: rgb(58, 58, 141);
+}
+li{
+    font-size: 22px;
+}
+.about{
+    border-radius: 10px;
+    background-color: midnightblue;
+    color: ghostwhite;
+    width: 98%;
+    margin-top: 10px;
+}
+
+.padding{
+    padding-top: 30px;
+}
+.navbar-brand{
+    margin-left: 30px;
+}
+.nav-item{
+    padding-left: 10px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+}
+
+.links{
+    border-radius: 10px;
+    background-color: midnightblue;
+    color: ghostwhite;
+    width: 98%;
+    margin-top: 10px;
+}
+a{
+    color: cornsilk;
+}
+.email, .instagram, .github{
+    max-width: 100px;
+}
+
+.pImg{
+    max-width: 300px;
+    margin-left: 60px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.pArts{
+    border-radius: 10px;
+    background-color: midnightblue;
+    color: ghostwhite;
+    width: 98%;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.img{
+    border-radius: 25%;
+}
+.bg-footer{
+    background-color: black;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    color: whitesmoke;
+}
